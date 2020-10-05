@@ -1,2 +1,2 @@
 # hello-world
-Ganesh weds Soundarya
+Designed by Vikas Coorg
